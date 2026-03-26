@@ -1,0 +1,5 @@
+{
+  "name": "Simple Calculator",
+  "description": "A clean and modern calculator built with React, Tailwind CSS, and Framer Motion.",
+  "requestFramePermissions": []
+}
